@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "python-functions",
+      "title": "Python Functions and Modules",
+      "description": "Practice reusable functions, module organization, and imports in Python.",
+      "path": "assignments/python-functions",
+      "dueDate": "2026-06-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
